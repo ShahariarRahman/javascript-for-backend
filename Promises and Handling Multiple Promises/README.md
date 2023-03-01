@@ -10,15 +10,22 @@
 
 - To make an object or instance from a constructor, we write new operator before constructor
 - Promise() takes callback function
-- - the callback function have 2 parameters : resolve, reject
+- - The callback function have 2 parameters : resolve, reject
 
 ### The object of Promise Constructor
 
 - The object of Promise constructor have three methods
 - then
-- - only execute when resolve function called
-- - get the value passed by the function
+- - Only execute when resolve function called
+- - Get the value passed by the function
 - catch
-- - only execute when rejected function called
-- - get the value passed by the function
+- - Only execute when rejected function called
+- - Get the value passed by the function
 - finally
+
+### Multiple Async Task
+
+- In Array
+- - Push the Promises in array instant of consuming it.
+- - Promise.all(ArrayOfPromise).then(res=>console.log(res))
+- - - complete all promise in an array then the callback function execute
