@@ -1,6 +1,5 @@
 ## Synchronous vs Asynchronous Node.js
 
-<hr/>
 <details>
     <summary>What is Node.js ?</summary>
 <p>
