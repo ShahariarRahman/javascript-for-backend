@@ -1,5 +1,0 @@
-// pending
-
-// resolved
-
-// rejected
