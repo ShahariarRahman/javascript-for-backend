@@ -27,5 +27,7 @@
 
 - In Array
 - - Push the Promises in array instant of consuming it.
+- - - If the promises not consumed then the promises remain synchronous can pushed synchronously.
 - - Promise.all(ArrayOfPromise).then(res=>console.log(res))
-- - - complete all promise in an array then the callback function execute
+- - - To consume array of promises.
+- - - after executing all promises then consume the data in callback function.
