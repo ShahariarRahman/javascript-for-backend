@@ -12,3 +12,25 @@
 </a>
 </p>
 </details>
+
+<details>
+    <summary>Sync Async task by Event-Queue & threat-Pool</summary>
+<p>
+
+- <a href="https://github.com/ShahariarRahman/javascript-for-backend-development/blob/main/0.%20Synchronous%20vs%20Asynchronous%20Node.js/code/SyncAsync.js">
+    Code
+   </a>
+  </p>
+
+</details>
+
+<details>
+    <summary>Nested Async Callback Function in Node.js</summary>
+<p>
+
+- <a href="https://github.com/ShahariarRahman/javascript-for-backend-development/blob/main/0.%20Synchronous%20vs%20Asynchronous%20Node.js/code/nestedAsyncCallback.js">
+    Code
+   </a>
+  </p>
+
+</details>
