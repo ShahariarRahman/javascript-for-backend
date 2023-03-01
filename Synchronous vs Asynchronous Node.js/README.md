@@ -16,7 +16,7 @@
     <summary>Sync Async task by Event-Queue & threat-Pool</summary>
 <p>
 
-- <a href="https://github.com/ShahariarRahman/javascript-for-backend-development/blob/main/Synchronous%20vs%20Asynchronous%20Node.js/code/SyncAsync.js">
+- <a href="https://github.com/ShahariarRahman/javascript-for-backend-development/blob/main/Synchronous%20vs%20Asynchronous%20Node.js/code/syncAsync.js">
     Code
    </a>
   </p>
@@ -27,7 +27,7 @@
     <summary>Nested Async Callback Function in Node.js</summary>
 <p>
 
-- <a href="https://github.com/ShahariarRahman/javascript-for-backend-development/blob/main/Synchronous%20vs%20Asynchronous%20Node.js/code/nestedAsyncCallback.js">
+- <a href="https://github.com/ShahariarRahman/javascript-for-backend-development/blob/main/Synchronous%20vs%20Asynchronous%20Node.js/code/syncAsync.js">
     Code
    </a>
   </p>
