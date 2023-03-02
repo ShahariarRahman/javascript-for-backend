@@ -1,4 +1,4 @@
-## Synchronous vs Asynchronous Node.js
+## Promises and Handling Multiple Promises
 
 ### States of Promise
 
