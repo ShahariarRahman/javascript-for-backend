@@ -3,14 +3,6 @@ function errorHandler(error) {
   console.log(message);
 }
 
-// default
-// module.exports = errorHandler;
-
 function two() {
   console.log("two");
 }
-
-module.exports = {
-  errorHandler,
-  two,
-};
