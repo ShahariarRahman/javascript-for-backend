@@ -10,5 +10,7 @@ function two() {
   console.log("two");
 }
 
-module.exports.errorHandler = errorHandler;
-module.exports.two = two;
+module.exports = {
+  errorHandler,
+  two,
+};
