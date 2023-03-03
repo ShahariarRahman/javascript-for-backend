@@ -2,7 +2,7 @@
   "name": "code",
   "version": "1.0.0",
   "main": "errorHandler.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
